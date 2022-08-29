@@ -1,0 +1,8 @@
+node_modules
+.umi
+.umi-production
+dist
+stats.html
+pnpm-lock.yaml
+components.d.ts
+auto-imports.d.ts
